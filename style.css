@@ -1,0 +1,421 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.navbar a {
+  font-size: 15px;
+  margin-left: 40px;
+  font-weight: 400;
+  line-height: 17.87px;
+  text-align: left;
+  font-family: "Inter", sans-serif;
+
+}
+
+
+.world {
+  background-image: url(image/image.png);
+  height: 100vh;
+  background-size: cover;
+  max-width: 100%;
+}
+
+.world h1 {
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  font-size: 69.73px;
+  font-weight: 600;
+  line-height: 84px;
+  text-align: center;
+  padding-top: 240px;
+
+}
+
+.world p {
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  font-size: 14.65px;
+  font-weight: 400;
+  line-height: 28.13px;
+  text-align: center;
+  padding-top: 10px;
+
+}
+
+.home-row {
+  border: 1px solid white;
+  width: 850px;
+  height: 80px;
+  padding: 16px;
+  border-radius: 12px 12px 12px 12px;
+  color: #ffffff;
+  background-color: #ffffff;
+
+}
+
+.box1 {
+  width: 50px;
+  height: 50px;
+  padding: 15px 14.8px 15px 15px;
+  border-radius: 12px 12px 12px 12px;
+  border: 1px solid #E7E6E6;
+
+}
+
+.box-h h5 {
+  color: black;
+}
+
+
+
+
+.box-h p {
+  color: #717171;
+  margin-top: -20px;
+  font-family: Inter;
+  font-size: 12.67px;
+  font-weight: 400;
+  line-height: 25.6px;
+  text-align: left;
+
+
+
+}
+
+.box-a {
+  display: flex;
+
+}
+
+.btn-a {
+  width: 136.95px;
+  height: 60px;
+  top: 10px;
+  left: 703.05px;
+  padding: 20px 30.8px 20px 57px;
+  border-radius: 12px;
+  background-color: #EB662B;
+  border: #EB662B;
+  color: #FFFFFF;
+}
+
+/************************ section tourz ***********************8*/
+
+
+.tourz {
+  width: 100%;
+  float: left;
+  margin-top: 120px;
+  font-family: "Inter", sans-serif;
+  padding-bottom: 115px;
+}
+
+
+
+.tour-h4 {
+  font-size: 29.3px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+  color: #05073C;
+  padding-bottom: 30px;
+}
+
+.tour-p {
+  font-size: 14.3px;
+  font-weight: 400;
+  line-height: 28.13px;
+  text-align: left;
+  color: #05073C;
+  padding-bottom: 30px;
+}
+
+.tic1 .img-h5 {
+  font-size: 17.72px;
+  font-weight: 500;
+  line-height: 27px;
+  text-align: left;
+  color: #05073C;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+.img-p {
+  color: #05073C;
+  font-size: 14.88px;
+  font-weight: 400;
+  line-height: 28.13px;
+  text-align: left;
+
+}
+
+
+
+
+
+/********************8 section destinations ********************/
+
+
+
+.trending h2 {
+  font-family: Inter;
+  font-size: 29.88px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+  color: #05073C;
+
+}
+
+.paris h3 {
+  font-family: "Inter", sans-serif;
+  font-size: 15.25px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+
+}
+
+.paris p {
+  font-family: "Inter", sans-serif;
+  font-size: 13.56px;
+  font-weight: 500;
+  line-height: 26.25px;
+  text-align: center;
+}
+
+
+
+/******************** section find ***************************/
+
+.find-h {
+  font-family: Inter;
+  font-size: 29.41px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+  padding-top: 215px;
+  padding-bottom: 45px;
+
+}
+
+.box-z {
+  border: 1px solid #E7E6E6;
+  text-align: center;
+  width: 350px;
+  height: 400.31px;
+  border-radius: 12px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+
+}
+
+.box-z p {
+  font-family: "Inter", sans-serif;
+  font-size: 12.29px;
+  font-weight: 400;
+  line-height: 24.38px;
+  /* text-align: left;   */
+  padding-right: 140px;
+  padding-top: 6px;
+  color: #717171;
+
+
+}
+
+.box-z h3 {
+
+  font-family: "Inter", sans-serif;
+  font-size: 18.88px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-left: 20px;
+  text-align: left;
+}
+
+.box-z .france-p {
+  font-size: 12.49px;
+  font-weight: 400;
+  line-height: 24.38px;
+  text-align: left;
+  padding-left: 101px;
+  font-family: "Inter", sans-serif;
+  color: #05073C;
+}
+
+
+.box-x {
+  border-top: 1px solid #E7E6E6;
+
+}
+
+
+
+.g-Destination {
+  width: 100%;
+  float: left;
+  /* height: 606.12px; */
+  font-family: "Inter", sans-serif;
+}
+
+.g-text {
+  margin-top: 160px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-align: left;
+  color: #05073C;
+}
+
+.g-text span {
+  color: #EB662B;
+}
+
+.limited {
+  font-size: 14.77px;
+  font-weight: 400;
+  line-height: 28.13px;
+  margin: 10px 0px 29px 0px;
+}
+
+.btn-book {
+  font-size: 14.41px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: center;
+  background: #EB662B;
+  color: #fff;
+  width: 167.86px;
+  height: 62px;
+  border: 0px;
+  border-radius: 12px;
+  /* margin-bottom: 160px; */
+}
+
+.things {
+  width: 100%;
+  float: left;
+  margin-top: 115px;
+  font-family: "Inter", sans-serif;
+}
+
+.a1 {
+  width: 300px;
+  height: 240px;
+  margin-bottom: 25px;
+}
+
+.a3 {
+  width: 410px;
+  height: 510px;
+  float: inline-end;
+}
+
+.a4 {
+  width: 465px;
+  height: 245px;
+  border-radius: 12px;
+}
+
+.a5 {
+  width: 180px;
+  height: 240px;
+  border-radius: 12px;
+}
+
+.a6 {
+  width: 269px;
+  height: 225px;
+  opacity: 0.5px;
+  margin-left: 40px;
+  border-radius: 12px;
+  background: linear-gradient(180deg, rgba(5, 7, 60, 0) 0%, #05073C 100%);
+}
+
+.top {
+  width: 100%;
+  float: left;
+  background-color: #F5F5F5;
+  margin-top: 120px;
+  height: 767.31px;
+}
+
+.top-trending {
+  margin: 115px 0px 40px 0px;
+}
+
+.top-h4 {
+  font-family: "Inter", sans-serif;
+  font-size: 29.41px;
+  font-weight: 700;
+  line-height: 45px;
+  text-align: left;
+  color: #05073C;
+}
+
+.top-p {
+  font-family: "Inter", sans-serif;
+  font-size: 14.3px;
+  font-weight: 400;
+  line-height: 28.13px;
+  text-align: left;
+  color: #05073C;
+}
+
+.Customer-Reviews {
+  width: 100%;
+  height: 100vh;
+  float: left;
+  background-image: url(Frame\ \(1\).png);
+  background-size: cover;
+  font-family: "Inter", sans-serif;
+}
+
+.Customer-Reviews h2 {
+  font-size: 29.53px;
+  font-weight: 700;
+  line-height: 45px;
+  color: #05073C;
+  text-align: center;
+  padding: 120px 0px 60px 0px;
+}
+
+.review-taitle {
+  font-size: 17.58px;
+  font-weight: 500;
+  line-height: 33.75px;
+  color: #EB662B;
+  padding-top: 60px;
+}
+
+.review-footer {
+  color: #05073C;
+  font-size: 19.53px;
+  font-weight: 500;
+  line-height: 37.5px;
+  padding: 25px 0px 28px 0px;
+}
+
+.customer-name {
+  font-size: 15.75px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: #05073C;
+}
+
+.text-t {
+  font-size: 14.3px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #05073C;
+}
+.app-1{
+  width: 100%;
+  height: 100vh;
+  background-image: url(text.png);
+  background-size: cover;
+} 
